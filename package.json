@@ -1,0 +1,37 @@
+{
+  "author": {
+    "name": "Nik Kalyani",
+    "email": "nik@kalyani.com"
+  },
+  "bugs": {
+    "url": "https://github.com/techbubble/hdwallet-accounts/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "bip39": "^2.2.0",
+    "hdkey": "^0.7.0"
+  },
+  "deprecated": false,
+  "description": "HD Wallet Accounts",
+  "homepage": "https://github.com/techbubble/hdwallet-accounts#readme",
+  "keywords": [
+    "etheruem",
+    "hd",
+    "wallet",
+    "mnemonic",
+    "accounts",
+    "testing",
+    "truffle"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "hdwallet-accounts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techbubble/hdwallet-accounts.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.1"
+}
